@@ -1,2 +1,3 @@
 # YuuBook
-First project with jsp-servlet-mysql
+
+jsp-servlet-mysql
